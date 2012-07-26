@@ -6,7 +6,7 @@ gem 'rails', '3.2.5'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-gem 'themes_for_rails', path: '../themes_for_rails'
+gem 'themes_for_rails'
 
 # Use unicorn as the web server
 # gem 'unicorn'
